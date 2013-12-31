@@ -1,0 +1,64 @@
+
+#kgraph_id {float:left}
+#textinfo_id {float:left}
+
+.wrapper{
+	margin: auto;
+	bottom: 0;
+	left: 0;
+	top: 0;
+	right: 0;
+	margin-left: 25px;
+}
+
+.searchbox{
+	width: 500px;
+	height: 40px;
+	line-height: 37px;
+	font-size: 20px;
+	margin-right: 25px;
+}
+
+.searchbutton{
+	width: 120px;
+	height: 75px;
+	font-size: 40px;
+}
+
+.contact{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.search{
+	position: absolute;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+.kdisplay{
+	position: absolute;
+	margin-top: 130px;
+}
+
+.kgraph{
+	min-height: 600px;
+	height: auto;
+	min-width: 500px;
+}
+
+.kgraph{
+	border:1px solid #a1a1a1;
+}
+
+.textinfo{
+	min-height: 600px;
+	height:auto;
+	width:800px;
+	border:1px solid #a1a1a1;
+}
+
+.addnode{
+	margin-top: 10px;
+	width: 150px;
+}
